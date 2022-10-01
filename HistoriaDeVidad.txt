@@ -1,6 +1,9 @@
-Este es el archivo inicial y con los cambios que apenas voy  a empezar a realizar;
+Este es el archivo inicial y con los cambios que apenas voy  a empezar a realizar
+
 La idea es romper el codigo lo suficiente para entenderlo
 Y con esto no romperlo cuando sea una catrastrofe
 Por lo tanto al hacerlo cuando no hya ningun archivo
 Relativamente debe ser no tan importante para que de igual
-Estamos en el año 2022 creo
+Estamos en el año 2022 
+
+Saludos a todos
