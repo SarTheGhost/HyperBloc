@@ -4,6 +4,6 @@ La idea es romper el codigo lo suficiente para entenderlo
 Y con esto no romperlo cuando sea una catrastrofe
 Por lo tanto hay que hacerlo cuando no hayan ningun archivo
 Relativamente debe ser no tan importante para que de igual
-Estamos en el año 2022  y 2023
+Estamos en el año 2022.
 
 Saludos a todos los presentes.
