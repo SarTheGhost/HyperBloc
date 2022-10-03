@@ -10,7 +10,7 @@ body
     }   
 #Cabecera
 {
-    background: #33A;
+    background: rgb(4, 4, 131);
     box-shadow: 0px 2px 20px 0px rgba(0,0,0,0.5);
     color: whitesmoke;
     font-weight: bold;
@@ -28,7 +28,7 @@ body
     width: 70%;
     padding: 1em;
     text-align: left;
-    border: 5px solid  blue;
+    border: 5px solid  rgb(38, 38, 73);
     margin: 0 auto;
 }
 #container h1
