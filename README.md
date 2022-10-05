@@ -11,5 +11,6 @@ Este es el primer blog creado enteramente por mi cuenta y con este se ve la evol
 * Subir repositorios
 * Hacer fusiones
 * Colaborar
+* Creado por Jhonatan
 
 Y como un amable recordatorio: **Este readme.md es un work**.  Diseñado para generar aprendizaje. Si llegas acá gracias.
