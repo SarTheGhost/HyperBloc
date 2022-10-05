@@ -12,5 +12,7 @@ Este es el primer blog creado enteramente por mi cuenta y con este se ve la evol
 * Hacer fusiones
 * Colaborar
 * Creado por Jhonatan
+* Incluye terminos y condiciones
+* Disponible a partir del 10 sept
 
 Y como un amable recordatorio: **Este readme.md es un work**.  Diseñado para generar aprendizaje. Si llegas acá gracias.
