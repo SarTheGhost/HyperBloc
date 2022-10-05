@@ -1,4 +1,4 @@
-#Hyperblog
+# Hyperblog
 Un blog una historia un aprendizaje y un comienzo.
 Este es el primer blog creado enteramente por mi cuenta y con este se ve la evolucion que ha tenido el mismo
 > El curso de Git y Github de Platzi es lo que me hacía falta dar el salto y tomar la decicion de una ves.
